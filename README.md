@@ -124,6 +124,14 @@ Atualmente, estou explorando o potencial das inteligências artificiais para cri
 />
 <img 
     align="left" 
+    alt="PostgresSQL" 
+    title="PostgresSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
+<img 
+    align="left" 
     alt="Redis" 
     title="Redis"
     width="30px" 
