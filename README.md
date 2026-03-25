@@ -1,6 +1,6 @@
 # <img align="left" alt="developer" title="developer" width="50px" style="padding-right: 10px;" src="https://img.icons8.com/clouds/100/under-computer.png" alt="under-computer"/> Guilherme Nascimento
 
-👋 Olá! Sou o Guilherme, tenho 27 anos e sou Desenvolvedor Full-Stack, com uma quedinha maior por Backend. Minha jornada na programação começou aos 18 anos, com um curso técnico em Tecnologia da Informação no SENAC. Desde então, venho trilhando um caminho de constante evolução na área. Atualmente sou pós-graduado em Arquitetura de Software pela FIAP e atuo profissionalmente com desenvolvimento de software desde os 20 anos.
+👋 Olá! Sou o Guilherme, tenho 28 anos e sou Desenvolvedor Full-Stack, com uma quedinha maior por Backend. Minha jornada na programação começou aos 18 anos, com um curso técnico em Tecnologia da Informação no SENAC. Desde então, venho trilhando um caminho de constante evolução na área. Atualmente sou pós-graduado em Arquitetura de Software pela FIAP e atuo profissionalmente com desenvolvimento de software desde os 20 anos.
 
 Desde pequeno, sempre fui apaixonado por tecnologia, já me aventurei na montagem e manutenção de computadores, cabeamento de redes e tudo que envolvesse esse vasto universo. Hoje, minha paixão está em criar soluções através do código.
 
