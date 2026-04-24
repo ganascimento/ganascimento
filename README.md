@@ -190,7 +190,7 @@ Atualmente, estou explorando o potencial das inteligências artificiais para cri
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ganascimento&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=ganascimento&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br&hide_rank=true" 
   />
 
 <img 
