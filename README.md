@@ -1,46 +1,48 @@
 # <img align="left" alt="developer" title="developer" width="50px" style="padding-right: 10px;" src="https://img.icons8.com/clouds/100/under-computer.png" alt="under-computer"/> Guilherme Nascimento
 
-👋 Olá! Sou o Guilherme, tenho 28 anos e sou Desenvolvedor Full-Stack, com uma quedinha maior por Backend. Minha jornada na programação começou aos 18 anos, com um curso técnico em Tecnologia da Informação no SENAC. Desde então, venho trilhando um caminho de constante evolução na área. Atualmente sou pós-graduado em Arquitetura de Software pela FIAP e atuo profissionalmente com desenvolvimento de software desde os 20 anos.
+# 👋 Olá, eu sou o Guilherme
 
-Desde pequeno, sempre fui apaixonado por tecnologia, já me aventurei na montagem e manutenção de computadores, cabeamento de redes e tudo que envolvesse esse vasto universo. Hoje, minha paixão está em criar soluções através do código.
+### Software Architect | AI & LLM Engineer | Specialist in High-Performance Systems
 
-Atualmente, estou explorando o potencial das inteligências artificiais para criar sistemas mais inteligentes, eficientes e inovadores.
+Engenheiro de Software com mais de **8 anos de experiência** no desenvolvimento de sistemas distribuídos e arquiteturas de alta disponibilidade. Especialista em modernização de sistemas legados e migração para microsserviços, com um histórico comprovado de otimização de performance (alcançando até **90% de redução no tempo de resposta**).
+
+Atualmente, foco minha atuação em **Engenharia de IA (LLMOps)**, projetando ecossistemas de agentes inteligentes e automações de alto impacto.
+
+### 🚀 Expertise Técnica
+
+* **Backend & Arquitetura:** .NET, Node.js (NestJS), Python (FastAPI), TypeScript.
+* **AI Engineering & LLMOps:** Desenvolvimento de sistemas multiagentes coordenados, implementação de agentes para GRC/SAP e observabilidade de modelos.
+* **Infraestrutura & Cloud:** Especialista em ambientes distribuídos utilizando AWS e Google Cloud (GCP).
+* **DevOps & Ferramentas:** Docker, Kubernetes, Langfuse, Git, e automação de CI/CD.
+* **Bancos de Dados:** Performance tuning em PostgreSQL, SQL Server, Redis e MongoDB.
 
 <hr/>
 
-### 🤖 Linguagens e Tecnologias
+### 🛠️ Tecnologias & Ferramentas
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="C#" 
+    title="C#"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="NodeJS" 
+    title="NodeJS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
 />
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Python" 
+    title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
@@ -73,38 +75,6 @@ Atualmente, estou explorando o potencial das inteligências artificiais para cri
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C#" 
-    title="C#"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
-/>
-<img 
-    align="left" 
-    alt="NodeJS" 
-    title="NodeJS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
