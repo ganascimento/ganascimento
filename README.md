@@ -1,5 +1,3 @@
-# <img align="left" alt="developer" title="developer" width="50px" style="padding-right: 10px;" src="https://img.icons8.com/clouds/100/under-computer.png" alt="under-computer"/> Guilherme Nascimento
-
 # 👋 Olá, eu sou o Guilherme
 
 ### Software Architect | AI & LLM Engineer | Specialist in High-Performance Systems
